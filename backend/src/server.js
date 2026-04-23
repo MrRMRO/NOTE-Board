@@ -46,4 +46,3 @@ connectDB().then(() => {
   });
 });
 
-//mongodb+srv://ravinduoshan_db_user:xHHvOSJsm4hNtX0W@cluster0.v37xac2.mongodb.net/?appName=Cluster0
