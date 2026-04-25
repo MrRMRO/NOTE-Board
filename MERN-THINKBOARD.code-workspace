@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../API Aggregator"
 		}
 	],
 	"settings": {}
